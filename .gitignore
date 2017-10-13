@@ -1,0 +1,5 @@
+config.json
+produt_dict.pickle
+Inputs/*
+Outputs/*
+!dummy.txt
