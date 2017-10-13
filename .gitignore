@@ -1,5 +1,5 @@
 config.json
-produt_dict.pickle
+product_dict.pickle
 Inputs/*
 Outputs/*
 !dummy.txt
